@@ -756,7 +756,7 @@ ol {
 }
 
 .input-label {
-  /* display: block; */
+  display: block;
   font-size: 12px;
   line-height: 1.17;
   letter-spacing: 0.04em;
@@ -852,8 +852,6 @@ ol {
   letter-spacing: 0.04em;
   color: var(--light-slate-color);
   position: relative;
-  display: flex;
-  align-items: center;
   fill: transparent;
 }
 
